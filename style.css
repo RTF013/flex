@@ -11,6 +11,9 @@ a {
 body {
     font-family: "nunito", helvetica, arial, sans-serif;
     color: #222222;
+    scroll-behavior: smooth;
+}
+
 }
 
 ul {
